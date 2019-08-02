@@ -1,11 +1,10 @@
 # Leapyear
 
-**TODO: Add description**
+Determine if a calendar year is a leap year or not.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `leapyear` to your list of dependencies in `mix.exs`:
+Add `leapyear` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
@@ -14,8 +13,3 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/leapyear](https://hexdocs.pm/leapyear).
-
